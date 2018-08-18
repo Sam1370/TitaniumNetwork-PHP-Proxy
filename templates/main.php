@@ -58,7 +58,7 @@ html body {
 
 	<div style="text-align:center;">
 		<h1 style="color:purple;">Titanium Network Proxy</h1>
-                <h1 style="color:green;">Www.cute-dog.tk Proxy</h1>														
+                <h1 style="color:green;">Sharprain0.herokuapp.com Proxy</h1>														
 		<h3 style="color:blue;">Using the titaniumnetwork proxy will allow you to anonymously visit any site you wish. Due to its anonymous nature, you can even unblock websites that are blocked by school and work firewalls!</h3>
 	</div>
 	
